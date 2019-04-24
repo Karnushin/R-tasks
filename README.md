@@ -5,3 +5,5 @@ This app can calculate call price and put price if price of an underlying asset 
 risk-free interest rate is r=0.03, dividend yield is q=0.
 
 Task_0.R defines a distribution of sample given in Task0.csv
+
+Task_1.R: have 3 samples from Task1.csv, have to evaluate regression model y = a0+a1x1+a2x2+a3x3+noise and delete insignificant variables(if they exist), after that evaluate new regression model; also have to define a distribution of noise and check if they are uncorrelated
